@@ -1,0 +1,4 @@
+*.psd
+*.pdf
+/test
+*xgboost-1.6.1
